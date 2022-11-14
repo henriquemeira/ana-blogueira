@@ -9,9 +9,9 @@ interface MarkdownFrontmatter {
   date: number;
 }
 
-const title = 'Creek';
-const description = 'A Theme for Astro';
-const seoDescription = 'Creek is a theme for Astro static site generator';
+const title = 'Ana Blogueira';
+const description = 'Um blog da Ana e seus alunos';
+const seoDescription = 'Ana Blogueira é um blog para contos da professora Ana Maria e seus alunos';
 
 const allPosts = await Astro.glob<MarkdownFrontmatter>('./posts/*.md');
 const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.pubDate).valueOf() - new Date(a.frontmatter.pubDate).valueOf());
