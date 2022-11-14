@@ -30,8 +30,9 @@ Foi aqui, na EJA que aprendi com você a ter responsabilidade com o trabalho. Ve
 
 Por isso quero dizer para a turma me desculpar por eu não estar apresentável para a aula, mas eu não podia faltar… eu sabia que a Ana estava aqui me esperando.
 
-> Vendo o vídeo que uma aluna me mandou lembrei desta história e quero dizer que para o professor exigir presença ele tinha que estar presente todos os dias. 
-> Ele não estava distribuindo pontos (o professor do vídeo), mas sim ensinando participação e responsabilidade como via de mão dupla: dos alunos e dos professores.
+  _Vendo o vídeo que uma aluna me mandou lembrei desta história e quero dizer que para o professor exigir presença ele tinha que estar presente todos os dias._
+
+  _Ele não estava distribuindo pontos (o professor do vídeo), mas sim ensinando participação e responsabilidade como via de mão dupla: dos alunos e dos professores._
 
 No final da aula do Jandir ele me fez uma pergunta em tom desafiador: “ Estou trabalhando num prédio em Buritis. Um prédio chique! Hoje estava ajudando no reboco das dependências de empregada. Quero que me responda: Por que quarto de empregada não tem janela? ”
 
