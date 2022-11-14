@@ -24,16 +24,20 @@ Entrou meio sem jeito na sala e pediu para falar com a turma.
 
 E esquecendo-se que estava “todo chujo” iniciou sua aula:
 
-Vim do interior e a vida toda trabalhei com “orelha seca” aprendi muita coisa boa. É só agora entendi que aprendi coisas não tão boas. Uma delas é enrolar no trabalho… ir ao banheiro várias vezes, mesmo sem precisar. Atrasar de propósito, inventar histórias para sair mais cedo.
+Vim do interior e a vida toda trabalhei com “orelha seca” aprendi muita coisa boa. E só agora entendi que aprendi coisas não tão boas. Uma delas é enrolar no trabalho… ir ao banheiro várias vezes, mesmo sem precisar. Atrasar de propósito, inventar histórias para sair mais cedo.
 
-Foi aqui,na EJA que aprendi com você a ter responsabilidade com o trabalho. Vendo o seu exemplo. Aprendi o que é a ter amor pela profissão, seja ela qual for.
+Foi aqui, na EJA que aprendi com você a ter responsabilidade com o trabalho. Vendo o seu exemplo. Aprendi o que é a ter amor pela profissão, seja ela qual for.
 
 Por isso quero dizer para a turma me desculpar por eu não estar apresentável para a aula, mas eu não podia faltar… eu sabia que a Ana estava aqui me esperando.
 
-Vendo novamente o vídeo que você mandou lembrei desta história e quero dizer que para o professor exigir presença ele tinha que estar presente todos os dias. Ele não estava distribuindo pontos, mas sim ensinando participação e responsabilidade como via de mão dupla: dos alunos e dos professores.
+> Vendo o vídeo que uma aluna me mandou lembrei desta história e quero dizer que para o professor exigir presença ele tinha que estar presente todos os dias. 
+> Ele não estava distribuindo pontos (o professor do vídeo), mas sim ensinando participação e responsabilidade como via de mão dupla: dos alunos e dos professores.
 
 No final da aula do Jandir ele me fez uma pergunta em tom desafiador: “ Estou trabalhando num prédio em Buritis. Um prédio chique! Hoje estava ajudando no reboco das dependências de empregada. Quero que me responda: Por que quarto de empregada não tem janela? ”
 
 Esta pergunta me fez preparar um projeto intitulado - Arquitetura da desigualdade - com participação de engenheiros e arquitetos. 
 
 Este projeto nos levou em Ouro Preto para entendermos e confrontarmos senzalas e quartos de empregadas… mas esta é uma outra história
+
+<p style='text-align: right;'> <small> EJA: Educação de Jovens e Adultos - <a href="https://www.portal.contagem.mg.gov.br/portal/noticias/0/3/75271/cadastro-da-eja-mobiliza-contagenses-acima-dos-15-anos-que-ainda-nao-completaram-o-ensino-fundamental">Programa da Prefeitura de Contagem/MG</a> </small> </p>
+
