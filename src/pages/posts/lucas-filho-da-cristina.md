@@ -3,10 +3,12 @@ title: "Lucas, filho da Cristina"
 pubDate: "2022-11-14"
 slug: "lucas-filho-da-cristina"
 description: "Aprendendo com arte e educação"
-hero: "/images/Fitz_Daily_Workout.png"
+hero: "/images/lucas-filho-da-cristina.png"
 tags: ["lucas"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
+
+#### Ana Maria
 
 Na Pedro Pacheco, dei aula para Lucas, filho da Cristina.
 
@@ -41,5 +43,3 @@ Cristina procurou a secretaria de Educação para dialogar. Fui com ela e aprese
 Lucas voltou para a Escola e a partir  deste dia … nos olhávamos como parceiros de vida.
 
 Ah, a quase expulsa fui eu… mas está é uma outra história
-
-_Ana Maria_
