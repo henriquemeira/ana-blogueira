@@ -8,20 +8,20 @@ tags: ["lucas"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 
-#### Ana Maria
+<p style='text-align: right;'> Por Ana Maria </p>
 
 
 Bate à minha porta uma criança de oito anos repetente na primeira série. Caderno na mão. Arrisca um sorriso. A carinha é toda interrogação:
 
-- Qual é o antônimo de guloso?
+-- Qual é o antônimo de guloso?
 
 Diante da minha mudez ela incentiva a “conversa”.
 
-- Você é professora de Português, não é?
+> Você é professora de Português, não é?
 
 Afirmativa e negativa concomitantes.
 
-- E qual é o antônimo de viúva?
+> - E qual é o antônimo de viúva?
 
 E continua numa tagarelice sobre a prova daquele dia: Antônimo vai cair na prova . A “Tia” ensinou. Sou repetente. Deveria saber. Decorei, mas esqueci”.
 
