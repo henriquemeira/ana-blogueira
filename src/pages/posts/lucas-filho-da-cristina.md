@@ -42,4 +42,4 @@ Cristina procurou a secretaria de Educação para dialogar. Fui com ela e aprese
 
 Lucas voltou para a Escola e a partir  deste dia … nos olhávamos como parceiros de vida.
 
-Ah, a quase expulsa fui eu… mas está é uma outra história
+Ah, a quase expulsa fui eu… mas esta é uma outra história
