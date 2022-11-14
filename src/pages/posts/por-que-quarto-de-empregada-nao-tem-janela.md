@@ -8,7 +8,7 @@ tags: ["jandir","quarto","empregada","janela"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 
-<p style='text-align: right;'> Por Ana Maria </p>
+<p style='text-align: right;'> <h3> Por Ana Maria </h3> </p>
 
 Jandir é do interior. Veio para BH há muitos anos. Sempre foi ajudante de pedreiro.
 

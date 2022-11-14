@@ -8,7 +8,7 @@ tags: ["lucas"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 
-<p style='text-align: right;'> Por Ana Maria </p>
+<p style='text-align: right;'> <h2> Por Ana Maria </h2> </p>
 
 Na Pedro Pacheco, dei aula para Lucas, filho da Cristina.
 
