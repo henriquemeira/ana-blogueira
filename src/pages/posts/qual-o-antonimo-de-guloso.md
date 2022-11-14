@@ -36,4 +36,7 @@ Muitas outras coisas certamente a menina, por si só poderia dizer para a “Tia
 Tantas questões... mais duas ainda para pensarmos: qual o antônimo de guloso? E de viúva?
 
 
-_MACEDO, Ana Maria Reis. Professora de Língua Portuguesa da Rede Municipal de Contagem e Rede Municipal de Belo Horizonte. 2000._
+<p style='text-align: right;'> <small><i>_MACEDO, Ana Maria Reis. Professora de Língua Portuguesa da Rede Municipal de Contagem e Rede Municipal de Belo Horizonte. 2000._</i></small> </p>
+
+
+

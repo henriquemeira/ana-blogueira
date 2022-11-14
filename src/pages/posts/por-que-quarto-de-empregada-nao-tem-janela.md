@@ -40,5 +40,5 @@ Esta pergunta me fez preparar um projeto intitulado - Arquitetura da desigualdad
 
 Este projeto nos levou em Ouro Preto para entendermos e confrontarmos senzalas e quartos de empregadas… mas esta é uma outra história
 
-<p style='text-align: right;'> <small> EJA: Educação de Jovens e Adultos - <a href="https://www.portal.contagem.mg.gov.br/portal/noticias/0/3/75271/cadastro-da-eja-mobiliza-contagenses-acima-dos-15-anos-que-ainda-nao-completaram-o-ensino-fundamental">Programa da Prefeitura de Contagem/MG</a> </small> </p>
+<p style='text-align: right;'> <small><i>EJA: Educação de Jovens e Adultos - <a href="https://www.portal.contagem.mg.gov.br/portal/noticias/0/3/75271/cadastro-da-eja-mobiliza-contagenses-acima-dos-15-anos-que-ainda-nao-completaram-o-ensino-fundamental">Programa da Prefeitura de Contagem/MG</a></i></small> </p>
 
