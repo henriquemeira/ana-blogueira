@@ -3,7 +3,7 @@ title: "Lucas, filho da Cristina"
 pubDate: "2022-11-14"
 slug: "lucas-filho-da-cristina"
 description: "Aprendendo com arte e educação"
-hero: "/images/Fitz_Daily_Workout.png"
+hero: "/images/lucas-filho-da-cristina.png"
 tags: ["lucas"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
