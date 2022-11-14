@@ -10,14 +10,14 @@ interface MarkdownFrontmatter {
 }
 
 const title = 'Ana Blogueira';
-const description = 'Um blog da Ana e seus alunos';
+const description = 'Um blog da Professora Ana Maria';
 const seoDescription = 'Ana Blogueira é um blog para contos da professora Ana Maria e seus alunos';
 
 const allPosts = await Astro.glob<MarkdownFrontmatter>('./posts/*.md');
 const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.pubDate).valueOf() - new Date(a.frontmatter.pubDate).valueOf());
 ---
 
-<html lang="en">
+<html lang="pt-br">
 
 <head>
   <BaseHead title={title} description={seoDescription} />
@@ -39,7 +39,7 @@ const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.pubDate).valu
 
   <section class="flex space-x-8 justify-center text-xl pt-8 font-bold">
     <a href="/posts" class="mr-8" data-test="see-all-link">
-      See All<span class="squiggle">&rarr;</span>
+      Ver todos os contos<span class="squiggle">&rarr;</span>
     </a>
   </section>
 

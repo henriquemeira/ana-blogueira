@@ -7,7 +7,7 @@
 
 <section class="max-w-3xl mx-auto px-3">
   <div class="searchBoxContainer">
-    <input type="text" id="searchBox" class="searchBox w-full px-2 py-1" placeholder="Search..." data-test="search-input" />
+    <input type="text" id="searchBox" class="searchBox w-full px-2 py-1" placeholder="Pesquisa..." data-test="search-input" />
   </div>
 
   <!-- Search Results -->
@@ -130,7 +130,7 @@
       if (!results.length) {
         let resultPage = document.createElement('div');
         resultPage.className = 'searchResultPage';
-        resultPage.innerHTML = 'No results found for query "' + query + '"';
+        resultPage.innerHTML = 'Nenhum resultado para o termo "' + query + '"';
         searchResults.append(resultPage);
         return;
       }
