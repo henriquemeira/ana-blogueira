@@ -8,7 +8,7 @@ tags: ["lucas"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 
-<p style='text-align: right;'> <h3> Por Ana Maria </h3> </p>
+<p style='text-align: right;'> <strong> Por Ana Maria </strong> </p>
 
 
 Bate à minha porta uma criança de oito anos repetente na primeira série. Caderno na mão. Arrisca um sorriso. A carinha é toda interrogação:
